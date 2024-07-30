@@ -1,0 +1,33 @@
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\bin\Debug\net8.0\appsettings.json
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\bin\Debug\net8.0\Escritório Jurídico - Visual Stúdio.staticwebassets.runtime.json
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\bin\Debug\net8.0\Escritório Jurídico - Visual Stúdio.exe
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\bin\Debug\net8.0\Escritório Jurídico - Visual Stúdio.deps.json
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\bin\Debug\net8.0\Escritório Jurídico - Visual Stúdio.runtimeconfig.json
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\bin\Debug\net8.0\Escritório Jurídico - Visual Stúdio.dll
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\bin\Debug\net8.0\Escritório Jurídico - Visual Stúdio.pdb
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\Escritório Jurídico - Visual Stúdio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\Escritório Jurídico - Visual Stúdio.AssemblyInfoInputs.cache
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\Escritório Jurídico - Visual Stúdio.AssemblyInfo.cs
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\Escritório Jurídico - Visual Stúdio.csproj.CoreCompileInputs.cache
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\Escritório Jurídico - Visual Stúdio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\Escritório Jurídico - Visual Stúdio.RazorAssemblyInfo.cache
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\Escritório Jurídico - Visual Stúdio.RazorAssemblyInfo.cs
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\staticwebassets\msbuild.Escritório Jurídico - Visual Stúdio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\staticwebassets\msbuild.build.Escritório Jurídico - Visual Stúdio.props
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Escritório Jurídico - Visual Stúdio.props
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Escritório Jurídico - Visual Stúdio.props
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\scopedcss\bundle\Escritório Jurídico - Visual Stúdio.styles.css
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\scopedcss\projectbundle\Escritório Jurídico - Visual Stúdio.bundle.scp.css
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\Escritório Jurídico - Visual Stúdio.dll
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\refint\Escritório Jurídico - Visual Stúdio.dll
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\Escritório Jurídico - Visual Stúdio.pdb
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\Escritório Jurídico - Visual Stúdio.genruntimeconfig.cache
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\ref\Escritório Jurídico - Visual Stúdio.dll
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\Escritório Jurídico - Visual Stúdio.sourcelink.json
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutCadastro.cshtml.rz.scp.css
+C:\Users\Aluno Noite\Desktop\Escritório Jurídico - Visual Stúdio\Escritório Jurídico - Visual Stúdio\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutGerenciamento.cshtml.rz.scp.css
